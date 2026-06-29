@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Leela Sowmya 👋
+# Hi, I'm Leela Sowmya 
 
 ### Computer Science Undergraduate • Open Source Contributor • Building AI-powered software
 
@@ -24,18 +24,18 @@ Right now, I'm especially interested in AI-powered applications and backend syst
 
 # 🚀 What I'm Working On
 
-- 🤝 Contributing to Open Source
-- 🤖 Building AI-powered applications
-- 🌐 Learning Backend Development
-- 📊 Working with real-world datasets
-- 🧠 Improving my DSA and problem-solving skills
-- 💡 Turning ideas into projects instead of leaving them in my notes
+-  Contributing to Open Source
+-  Building AI-powered applications
+-  Learning Backend Development
+-  Working with real-world datasets
+-  Improving my DSA and problem-solving skills
+-  Turning ideas into projects instead of leaving them in my notes
 
 ---
 
 # 📂 Projects That Changed How I Think
 
-### 📈 InvestIQ
+###  InvestIQ
 
 We started this project wanting to build an AI-powered investment advisor.
 
@@ -43,10 +43,18 @@ Somewhere along the way, I became more interested in *why* the model made a reco
 
 That curiosity led me to explore Explainable AI and the importance of building systems people can actually trust.
 
+###  DocuAgent
+
+We went into this hackathon thinking about documentation.
+
+Somewhere along the way, I became more interested in how large codebases could be understood instead of simply documented.
+
+Building DocuAgent introduced me to software architecture, dependency analysis, and the idea that good developer tools reduce the time spent figuring things out, not just writing them down.
+
 ---
 
 
-### 📊 Data Analytics Projects
+### Data Analytics Projects
 
 Working with messy datasets taught me that data is rarely clean.
 
@@ -54,7 +62,7 @@ Cleaning data, finding patterns, and explaining insights became just as valuable
 
 ---
 
-### 🌍 Open Source
+###  Open Source
 
 Open source completely changed how I learn.
 
@@ -141,7 +149,7 @@ Git • GitHub • VS Code • Firebase  • Vercel
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Soquixx&theme=tokyonight&hide_border=true"/>
